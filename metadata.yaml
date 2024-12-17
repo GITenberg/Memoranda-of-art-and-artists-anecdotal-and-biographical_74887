@@ -1,0 +1,28 @@
+_repo: Memoranda-of-art-and-artists-anecdotal-and-biographical_74887
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sandell, Joseph
+    gutenberg_agent_id: '57707'
+    url: http://www.gutenberg.org/2009/agents/57707
+description: ''
+gutenberg_issued: '2024-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74887'
+language: en
+pgterms:marc904: https://books.google.com/books?id=bFip6ldJJFoC&printsec=frontcover&dq=memoranda+of+art+and+artists&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjsxbbak7iDAxW1m2oFHVjBC9kQ6AF6BAgFEAI#v=onepage&q=memoranda%20of%20art%20and%20artists&f=false
+pgterms:marc905: 20231230135731sandell
+pgterms:marc906: '1871'
+pgterms:marc907: GB
+production_note: Alan, Tim Miller and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from scanned images of public domain
+  material from the Google Books project.)
+publication_note: '  $aLondon :$bSimpkin, Marshall & Co., $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memoranda of art and artists, anecdotal and biographical
+url: http://www.gutenberg.org/ebooks/74887
