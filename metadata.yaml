@@ -1,11 +1,16 @@
 _repo: Memoranda-of-art-and-artists-anecdotal-and-biographical_74887
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74887-h/images/cover.jpg
 creator:
   author:
     agent_name: Sandell, Joseph
     gutenberg_agent_id: '57707'
     url: http://www.gutenberg.org/2009/agents/57707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74887#Memoranda-of-art-and-artists-anecdotal-and-biographical
 gutenberg_issued: '2024-12-13'
 gutenberg_type: Text
 identifiers:
